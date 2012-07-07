@@ -1,5 +1,11 @@
+// MakeString.h
+
 #ifndef _MAKESTRING_H_
 #define _MAKESTRING_H_
+
+// Standard includes
+
+// Standard Library
 
 #include <sstream>
 #include <string>

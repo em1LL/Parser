@@ -1,3 +1,20 @@
+// main.cpp
+
+// Project specific includes
+
+#include "MakeString.h"
+
+// Standard includes
+
+// Boost
+
+#include <boost/asio.hpp>
+#include <boost/current_function.hpp>
+#include <boost/detail/lightweight_main.hpp>
+#include <boost/regex.hpp>
+
+// Standard Library
+
 #include <cstdlib>
 #include <fstream>
 #include <iomanip>
@@ -6,10 +23,6 @@
 #include <set>
 #include <string>
 #include <utility>
-#include <boost/asio.hpp>
-#include <boost/current_function.hpp>
-#include <boost/detail/lightweight_main.hpp>
-#include <boost/regex.hpp>
 
 namespace
 {
